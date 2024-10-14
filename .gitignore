@@ -2,7 +2,7 @@ helper/db.js
 node_modules
 .env
 run.js
-blocks.js
+blocks.js8768
 historical-data.js
 /.idea
 yarn.lock
